@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/amankr/static/css/main.128a5df4.chunk.css",
+    "main.js": "/amankr/static/js/main.36961c52.chunk.js",
+    "main.js.map": "/amankr/static/js/main.36961c52.chunk.js.map",
+    "runtime-main.js": "/amankr/static/js/runtime-main.8e1b0b42.js",
+    "runtime-main.js.map": "/amankr/static/js/runtime-main.8e1b0b42.js.map",
+    "static/js/2.d72150d9.chunk.js": "/amankr/static/js/2.d72150d9.chunk.js",
+    "static/js/2.d72150d9.chunk.js.map": "/amankr/static/js/2.d72150d9.chunk.js.map",
+    "index.html": "/amankr/index.html",
+    "static/css/main.128a5df4.chunk.css.map": "/amankr/static/css/main.128a5df4.chunk.css.map",
+    "static/js/2.d72150d9.chunk.js.LICENSE.txt": "/amankr/static/js/2.d72150d9.chunk.js.LICENSE.txt",
+    "static/media/about.3bd759b8.jpg": "/amankr/static/media/about.3bd759b8.jpg",
+    "static/media/avatar.a1c52ada.jpg": "/amankr/static/media/avatar.a1c52ada.jpg",
+    "static/media/blog1.7ecbb78c.svg": "/amankr/static/media/blog1.7ecbb78c.svg",
+    "static/media/blog2.09939351.svg": "/amankr/static/media/blog2.09939351.svg",
+    "static/media/blog3.6291ee7c.svg": "/amankr/static/media/blog3.6291ee7c.svg",
+    "static/media/blog4.60aa6cec.svg": "/amankr/static/media/blog4.60aa6cec.svg",
+    "static/media/blog5.2599a6b1.svg": "/amankr/static/media/blog5.2599a6b1.svg",
+    "static/media/clothingcnn.8c15831e.jpg": "/amankr/static/media/clothingcnn.8c15831e.jpg",
+    "static/media/cv_2021.45c1848d.pdf": "/amankr/static/media/cv_2021.45c1848d.pdf",
+    "static/media/design.8ecb3043.svg": "/amankr/static/media/design.8ecb3043.svg",
+    "static/media/App.scss": "/amankr/static/media/dots.9978678b.svg",
+    "static/media/emailme.a60657eb.svg": "/amankr/static/media/emailme.a60657eb.svg",
+    "static/media/fpv.241fcc72.JPG": "/amankr/static/media/fpv.241fcc72.JPG",
+    "static/media/game-dev.20147858.svg": "/amankr/static/media/game-dev.20147858.svg",
+    "static/media/handwrittenann.5a318504.png": "/amankr/static/media/handwrittenann.5a318504.png",
+    "static/media/intelligence.11bd2ab2.svg": "/amankr/static/media/intelligence.11bd2ab2.svg",
+    "static/media/killzilla.4e81846e.jpg": "/amankr/static/media/killzilla.4e81846e.jpg",
+    "static/media/location.5cd6776e.svg": "/amankr/static/media/location.5cd6776e.svg",
+    "static/media/newspaper.04537282.png": "/amankr/static/media/newspaper.04537282.png",
+    "static/media/phone.ef86e22a.svg": "/amankr/static/media/phone.ef86e22a.svg",
+    "static/media/port3.7f41458f.jpg": "/amankr/static/media/port3.7f41458f.jpg",
+    "static/media/port5.1330f6cd.jpg": "/amankr/static/media/port5.1330f6cd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8e1b0b42.js",
+    "static/js/2.d72150d9.chunk.js",
+    "static/css/main.128a5df4.chunk.css",
+    "static/js/main.36961c52.chunk.js"
+  ]
+}

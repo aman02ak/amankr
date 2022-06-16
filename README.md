@@ -12,7 +12,7 @@ Technology Used -
 <h4> Backend </h4>
 <p> No backend server is used, only static JSON file is used to read and display the data on browser. </p>
 
-<a href="https://aman02ak.github.io/portfolio_website_outdated/" target = "_blank"> Click Here </a> to visit the website.
+<a href="https://aman02ak.github.io/amankr/" target = "_blank"> Click Here </a> to visit the website.
 
 <br>
 <br>

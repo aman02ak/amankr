@@ -17,5 +17,5 @@ Technology Used -
 <br>
 <br>
 <br>
-<footer> Note- Work in progress to update the website. Adding backed server as well to add the functionality of CRED (Create-Read-Edit-Delete) </footer>
-<a href="https://img.freepik.com/free-vector/stay-tuned-coming-soon-modern-style-background-design_1017-27276.jpg?w=2000" target = "_blank"> Stay tuned, Click Here </a> visit the updated repositry
+<footer> Note- Work in progress to update the website. Adding backed server as well to add the functionality of CRED (Create-Read-Edit-Delete) </footer><br>
+Stay tuned, <a href="https://img.freepik.com/free-vector/stay-tuned-coming-soon-modern-style-background-design_1017-27276.jpg?w=2000" target = "_blank"> Click Here </a> visit the updated repositry

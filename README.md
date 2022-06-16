@@ -1,1 +1,1 @@
-Link to Website - https://aman02ak.github.io/
+Link to Website - https://aman02ak.github.io/amankr/
